@@ -1,3 +1,5 @@
+//Copyright@YanningZuo
+//To cite, please link to my Github repository
 macro "Batch Measure" {
     dir = getDirectory("Choose a Directory ");
     list = getFileList(dir);
@@ -34,3 +36,5 @@ macro "Batch Measure" {
 	    	run("Close");
     }
 }
+//Copyright@YanningZuo
+//To cite, please link to my Github repository
